@@ -1,0 +1,11 @@
+Sebastians blog project
+========================
+
+Objective
+  * Develop a blog application using Django, HTML5, JQuery and CSS3
+  * Learn to use git
+
+Requirements
+  * As a user read blog posts in chronographic order
+  * As a user click on a post to read the entire post
+  * As a user create and post a log post
